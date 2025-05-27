@@ -21,5 +21,3 @@ Entity Framework Core
 SQL Server
 
 Layered architecture (Controllers → Services → Repositories)
-
-Swagger (OpenAPI) for automatic API documentation
